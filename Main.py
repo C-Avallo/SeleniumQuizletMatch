@@ -1,8 +1,6 @@
 import Bot
 import pymsgbox
 
-import toga
-
 bot = Bot.Bot()
 
 bot.Login_With_Google("---", "---")
